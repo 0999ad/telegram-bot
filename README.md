@@ -14,7 +14,7 @@ The bot recognizes two main commands:
 
 1. **Start Command**: Users can initiate interaction with the bot by sending `/start` or `/hello`. The bot responds with a welcome message and basic instructions.
 
-2. **Dark Web Search Command**: Users can search for dark web links by using the `/tor` or `/getonions` command followed by their query. For example, `/darkweb credit cards`. The bot will then provide relevant .onion links.
+2. **Dark Web Search Command**: Users can search for dark web links by using the `/tor` or `/getonions` command followed by their query. For example, `/tor credit cards`. The bot will then provide relevant .onion links.
 
 **Note**: Accessing these .onion links requires a TOR browser.
 
@@ -30,3 +30,5 @@ The bot recognizes two main commands:
 
 This bot interacts with dark web content, which can be sensitive and potentially illegal. 
 Ensure you understand the risks and legal implications associated with such activities in your jurisdiction.
+
+The original version was for an EC council course with Omar Rajab. 
